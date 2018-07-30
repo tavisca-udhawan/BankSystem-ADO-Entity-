@@ -1,0 +1,1 @@
+# BankSystem-ADO-Entity-
