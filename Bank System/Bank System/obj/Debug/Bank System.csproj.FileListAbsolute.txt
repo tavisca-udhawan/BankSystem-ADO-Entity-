@@ -1,0 +1,18 @@
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Bank System.exe.config
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Bank System.exe
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Bank System.pdb
+C:\Users\udhawan\source\repos\Bank System\Bank System\obj\Debug\Bank System.csprojResolveAssemblyReference.cache
+C:\Users\udhawan\source\repos\Bank System\Bank System\obj\Debug\Bank System.csproj.CoreCompileInputs.cache
+C:\Users\udhawan\source\repos\Bank System\Bank System\obj\Debug\Bank System.exe
+C:\Users\udhawan\source\repos\Bank System\Bank System\obj\Debug\Bank System.pdb
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Business Logic.dll
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\DataAccess.dll
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Business Logic.pdb
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\DataAccess.pdb
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Entity.dll
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\Entity.pdb
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\EntityFramework.dll
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\EntityFramework.xml
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\udhawan\source\repos\Bank System\Bank System\bin\Debug\DataAccess.dll.config

@@ -1,0 +1,6 @@
+C:\Users\udhawan\source\repos\Bank System\Entity\bin\Debug\Entity.dll
+C:\Users\udhawan\source\repos\Bank System\Entity\bin\Debug\Entity.pdb
+C:\Users\udhawan\source\repos\Bank System\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\udhawan\source\repos\Bank System\Entity\obj\Debug\Entity.csproj.CoreCompileInputs.cache
+C:\Users\udhawan\source\repos\Bank System\Entity\obj\Debug\Entity.dll
+C:\Users\udhawan\source\repos\Bank System\Entity\obj\Debug\Entity.pdb
